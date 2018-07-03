@@ -1,0 +1,6 @@
+C:\Users\Kjell\OneDrive\Documents\Programming\C#\Dart Game\Dart Game\Dart Game\obj\Debug\Dart Game.csprojResolveAssemblyReference.cache
+C:\Users\Kjell\OneDrive\Documents\Programming\C#\Dart Game\Dart Game\Dart Game\obj\Debug\Dart Game.csproj.CoreCompileInputs.cache
+C:\Users\Kjell\OneDrive\Documents\Programming\C#\Dart Game\Dart Game\Dart Game\bin\Debug\Dart Game.exe
+C:\Users\Kjell\OneDrive\Documents\Programming\C#\Dart Game\Dart Game\Dart Game\bin\Debug\Dart Game.pdb
+C:\Users\Kjell\OneDrive\Documents\Programming\C#\Dart Game\Dart Game\Dart Game\obj\Debug\Dart Game.exe
+C:\Users\Kjell\OneDrive\Documents\Programming\C#\Dart Game\Dart Game\Dart Game\obj\Debug\Dart Game.pdb
